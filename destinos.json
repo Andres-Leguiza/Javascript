@@ -1,0 +1,50 @@
+[
+    {
+        "ciudadDestino": "Cancun",
+        "paisDestino": "MEX",
+        "precio": 40000,
+        "imgURL": "img/destinos/cancun.jpg"
+    },
+    {
+        "ciudadDestino": "Miami",
+        "paisDestino": "USA",
+        "precio": 35000,
+        "imgURL": "img/destinos/miami.jpg"
+    },
+    {
+        "ciudadDestino": "New York City",
+        "paisDestino": "USA",
+        "precio": 45000,
+        "imgURL": "img/destinos/newyorkcity.jpg"
+    },
+    {
+        "ciudadDestino": "Punta Cana",
+        "paisDestino": "DOM",
+        "precio": 32000,
+        "imgURL": "img/destinos/puntacana.jpg"
+    },
+    {
+        "ciudadDestino": "San Carlos de Bariloche",
+        "paisDestino": "ARG",
+        "precio": 30000,
+        "imgURL": "img/destinos/bariloche.jpg"
+    },
+    {
+        "ciudadDestino": "Cataratas del Iguazu",
+        "paisDestino": "ARG",
+        "precio": 25000,
+        "imgURL": "img/destinos/iguazu.jpg"
+    },
+    {
+        "ciudadDestino": "Florianopolis",
+        "paisDestino": "BRA",
+        "precio": 15000,
+        "imgURL": "img/destinos/florianopolis.jpg"
+    },
+    {
+        "ciudadDestino": "Monte Cristo",
+        "paisDestino": "ARG",
+        "precio": 10000,
+        "imgURL": "img/destinos/cordoba.jpg"
+    }
+]

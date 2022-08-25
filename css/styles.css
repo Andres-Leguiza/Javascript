@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700;900&display=swap");
+
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: 'Rubik', sans-serif;
+    background-color: aliceblue;
+}
+
+.navbar {
+    background-color: #0e408b75;
+}
+
+.btn, .btn:focus {
+    vertical-align: baseline;
+    box-shadow: none;
+}
+
+#banner {
+    width: 100%;
+    height: 80px;
+    background-color: rgb(127, 225, 255,0.5);
+    font-weight: 700;
+    font-size: 22px;
+    color: rgb(100, 121, 237);
+}
+
+@media (min-width: 576px){
+    #banner {
+        font-size: 32px;
+    }
+}
+
+p {
+    margin: 0;
+}
+
+.card {
+    min-height: 500px;
+    max-width: 472px;
+}
+
+@media (min-width: 576px) {
+    .card {
+        min-height: 550px;
+    }
+}
+
+.form-select, .form-select:focus {
+    box-shadow: none;
+}
+
+#modalCarrito {
+    display: none;
+}
+
+@media (min-width: 576px){
+    .modal-dialog {
+        max-width: 560px;
+    }
+}
+
+.card-precio {
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.borrar {
+    border: none;
+    background-color: transparent;
+}
